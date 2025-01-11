@@ -9,6 +9,6 @@
 ## 📱 Contact on my profile
 
 ## 💻 Tech Stack:
+  <img style="width: 50px;" src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg">
   <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
-  <img style="width: 50px; src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg">
-  <img style="width: 50px; src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+  <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
