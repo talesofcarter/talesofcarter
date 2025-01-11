@@ -10,4 +10,6 @@
 
 ## 💻 Tech Stack:
 
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg">
+<div>
+  <img style="width: 50px;" src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg">
+</div>
