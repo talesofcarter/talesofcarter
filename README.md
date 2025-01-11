@@ -13,6 +13,9 @@
   <img style="width: 50px;" src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg">
   <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg">
   <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+  <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+  <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
+  <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png">
 </div>
   
  
