@@ -14,3 +14,5 @@
 <img align="left" alt="tailwind" width="50px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="node" width="50px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
 <img align="left" alt="framer" width="50px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />
+<img align="left" alt="jasmine" width="50px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg" />
+          
