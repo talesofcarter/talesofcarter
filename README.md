@@ -10,7 +10,7 @@
 <img align="left" alt="python" width="50px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="git" width="50px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="tailwind" width="50px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="node" width="50px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align="left" alt="node" width="50px" style="padding-right:5px" src="https://devicon-website.vercel.app/api/nodejs/original.svg" />
 <img align="left" alt="framer" width="50px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />
 <img align="left" alt="jasmine" width="50px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg" />
 <img align="left" alt="figma" width="50px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
