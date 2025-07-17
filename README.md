@@ -1,6 +1,6 @@
 <img align="left" width="47%" alt="my-stats" src="https://github-readme-stats.vercel.app/api?username=talesofcarter&show_icons=true" />
 <img align="left" width="47%" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesofcarter&layout=compact" />
-
+ 
 ## 🛠️ Tech Stack
 <img align="left" alt="html" width="50px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="css" width="50px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
