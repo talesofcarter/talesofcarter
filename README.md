@@ -16,6 +16,10 @@ Here’s a snapshot of my activity, consistency, and achievements.
 
 ---
 
+## 🔥 Github Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=talesofcarter&theme=dark)](https://git.io/streak-stats)
+
 ## ⚡ Quick Summary
 
 - 💻 Focused on full-stack & AI engineering projects  
