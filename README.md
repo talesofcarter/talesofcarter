@@ -7,19 +7,12 @@ Here’s a snapshot of my activity, consistency, and achievements.
 
 ## 📊 GitHub Statistics
 
-[![GitHub stats](https://gitspulse.vercel.app/api/cards/stats?username=talesofcarter&theme=dark&t=1779619959059)](https://github.com/talesofcarter)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talesofcarter&show_icons=true)
 
 ---
 
-## 📈 Contribution Streak
-
-[![GitHub streak](https://gitspulse.vercel.app/api/cards/streak?username=talesofcarter&theme=dark&t=1779619959059)](https://github.com/talesofcarter)
-
----
-
-## 🏆 GitHub Trophies
-
-[![GitHub trophies](https://gitspulse.vercel.app/api/trophies?username=talesofcarter&t=1779619959059)](https://github.com/talesofcarter)
+## 🏆 GitHub Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talesofcarter&layout=compact)
 
 ---
 
