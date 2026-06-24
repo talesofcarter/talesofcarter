@@ -1,6 +1,6 @@
 ## ⚡ Tech Arsenal
 
-<div align="center">
+<div align="left">
 
 ### Frontend Architecture
 <p>
