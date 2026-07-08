@@ -46,14 +46,6 @@
 
 ## 📊 Engineering Metrics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=talesofcarter&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=A855F7&rank_icon=github" />
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesofcarter&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" />
-
-</div>
-
 <br/>
 
 <div align="center">
