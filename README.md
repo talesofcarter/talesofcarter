@@ -1,4 +1,4 @@
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="left">
 
