@@ -62,11 +62,16 @@ Building fast, reliable web applications and AI-powered products with modern Jav
 
 ## Featured Projects
 
-| Project | Overview | Tech Stack |
-|----------|----------|------------|
-| **ProQure** | AI-powered procurement intelligence platform that evaluates suppliers using ESG metrics, risk analysis, carbon emissions, and procurement spend. Features a conversational AI advisor, interactive analytics dashboard, and supplier benchmarking to support smarter purchasing decisions. | React • TypeScript • Express • MongoDB • Hugging Face |
-| **RoboFarm** | AI-powered precision agriculture platform that analyzes soil health using environmental and nutrient data to generate actionable farming recommendations. Built during the PLP Land Degradation Hackathon to promote sustainable agriculture. | MongoDB • Express • React • Node.js • Hugging Face |
-| **Martian Horse** | Premium full-stack e-commerce platform featuring secure authentication, a custom shopping cart, payment gateway integration, inventory management, and an intuitive admin dashboard. | React • Express • PostgreSQL • Prisma |
+<div align="center">
+
+<a href="https://github.com/talesofcarter/mern-final-project-talesofcarter">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=talesofcarter&repo=talesofcarter/mern-final-project-talesofcarter&theme=catppuccin_latte" />
+</a>
+
+<a href="https://github.com/talesofcarter/robofarm">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=talesofcarter&repo=talesofcarter/robofarm&theme=catppuccin_latte" />
+</a>
+</div>
 
 ---
 
