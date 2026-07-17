@@ -60,21 +60,6 @@ Building fast, reliable web applications and AI-powered products with modern Jav
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/talesofcarter/mern-final-project-talesofcarter">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=talesofcarter&repo=talesofcarter/mern-final-project-talesofcarter&theme=catppuccin_latte" />
-</a>
-
-<a href="https://github.com/talesofcarter/robofarm">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=talesofcarter&repo=talesofcarter/robofarm&theme=catppuccin_latte" />
-</a>
-</div>
-
----
-
 ## Current Focus
 
 - Building production-ready AI applications powered by LLMs
