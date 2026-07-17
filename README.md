@@ -1,68 +1,105 @@
-## ⚡ Tech Stack
+<div align="center">
 
-<div align="left">
+# Kelvin Juma
 
-### Frontend Architecture
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-</p>
+### Full-Stack Software Engineer • AI Engineer
 
-### Backend Systems
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-</p>
-
-### Data Layer
-<p>
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-</p>
-
-### AI Engineering
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
-  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00C389" />
-</p>
-
-### Tooling & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-</p>
-
-</div>
-
----
-
-## 📊 Engineering Metrics
+Building fast, reliable web applications and AI-powered products with modern JavaScript, TypeScript, Python, and LLM technologies.
 
 <br/>
 
-<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://kelvin-site.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-juma-767392182/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvinjuma99@gmail.com)
 
-<img width="90%" src="https://streak-stats.demolab.com?user=talesofcarter&theme=midnight-purple&hide_border=true&background=0D1117&stroke=7C3AED&ring=A855F7&fire=C084FC&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2&section=header" width="100%" />
+
+</div>
+
+## About
+
+- Building modern, scalable web applications with **React**, **Next.js**, **Node.js**, and **Python**
+- Designing robust APIs, relational databases, and maintainable backend architectures
+- Developing production-ready AI features using **OpenAI**, **LangChain**, **RAG**, and intelligent agent workflows
+- Passionate about clean architecture, performance optimization, and exceptional user experiences
+- Continuously learning and shipping software that solves real-world problems
+
+---
+
+## Tech Stack
+
+#### Frontend
+
+<div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</div>
+
+#### Backend
+
+<div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask" />
+</div>
+
+#### Databases
+
+<div>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</div>
+
+#### AI & Machine Learning
+
+<div>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</div>
+
+#### Developer Tools
+
+<div>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
+</div>
+
+---
+
+## Featured Projects
+
+| Project | Overview | Tech Stack |
+|----------|----------|------------|
+| **ProQure** | AI-powered procurement intelligence platform that evaluates suppliers using ESG metrics, risk analysis, carbon emissions, and procurement spend. Features a conversational AI advisor, interactive analytics dashboard, and supplier benchmarking to support smarter purchasing decisions. | React • TypeScript • Express • MongoDB • Hugging Face |
+| **RoboFarm** | AI-powered precision agriculture platform that analyzes soil health using environmental and nutrient data to generate actionable farming recommendations. Built during the PLP Land Degradation Hackathon to promote sustainable agriculture. | MongoDB • Express • React • Node.js • Hugging Face |
+| **Martian Horse** | Premium full-stack e-commerce platform featuring secure authentication, a custom shopping cart, payment gateway integration, inventory management, and an intuitive admin dashboard. | React • Express • PostgreSQL • Prisma |
+
+---
+
+## Current Focus
+
+- Building production-ready AI applications powered by LLMs
+- Designing reliable Retrieval-Augmented Generation (RAG) systems
+- Developing intelligent agent workflows with LangChain
+- Writing cleaner, scalable TypeScript across large codebases
+- Exploring modern software architecture and cloud-native development
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+  
+<img width="95%" src="https://streak-stats.demolab.com?user=talesofcarter&theme=algolia&hide_border=true" />
 
 </div>
 
 ---
 
 <div align="center">
+
+> *Building software that is fast, thoughtful, and built to last.*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=talesofcarter&style=for-the-badge&color=7c3aed&label=Profile+Views" />
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2&section=footer" width="100%" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=talesofcarter&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-
 </div>
-
