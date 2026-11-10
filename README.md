@@ -4,7 +4,9 @@
 
 <br>
 
-**[Portfolio](https://kelvin-site.vercel.app)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/kelvin-juma-767392182/)** &nbsp;·&nbsp; **[Email](mailto:kelvinjuma99@gmail.com)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://kelvin-site.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-juma-767392182/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvinjuma99@gmail.com)
 
 Building fast, reliable web applications and AI-powered products with modern JavaScript, TypeScript, Python, and LLM technologies.
 
@@ -78,9 +80,11 @@ Uncomment and fill in once you've picked your best work (or pin 4–6 repos inst
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=talesofcarter&theme=dark&hide_border=true">
-  <img src="https://streak-stats.demolab.com?user=talesofcarter&theme=default&hide_border=true" alt="GitHub contribution streak for talesofcarter" width="100%">
+  <img src="https://streak-stats.demolab.com?user=talesofcarter&theme=algolia&hide_border=true" alt="GitHub contribution streak for talesofcarter" width="100%">
 </picture>
 
 ---
 
 <p align="center"><em>Building software that is fast, thoughtful, and built to last.</em></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2&section=footer" width="100%" />
