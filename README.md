@@ -1,14 +1,25 @@
+<div align="center">
+
 <a href="https://kelvin-site.vercel.app">
   <img src="assets/hero.png" alt="Kelvin Juma — Full-Stack Software Engineer and AI Engineer. Focus: production AI and RAG. Languages: TypeScript and Python." width="100%">
 </a>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://kelvin-site.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-juma-767392182/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvinjuma99@gmail.com)
+<a href="https://kelvin-site.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kelvin-juma-767392182/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:kelvinjuma99@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-Building fast, reliable web applications and AI-powered products with modern JavaScript, TypeScript, Python, and LLM technologies.
+<br>
+
+Building fast, reliable web applications and AI-powered products<br>
+with modern JavaScript, TypeScript, Python, and LLM technologies.
+
+<br>
+
+</div>
 
 ---
 
@@ -19,6 +30,8 @@ Building fast, reliable web applications and AI-powered products with modern Jav
 - Shipping production-ready AI features with **OpenAI**, **LangChain**, **RAG**, and intelligent agent workflows
 - Passionate about clean architecture, performance, and exceptional user experiences
 - Continuously learning, and shipping software that solves real-world problems
+
+<br>
 
 ---
 
@@ -32,39 +45,48 @@ Building fast, reliable web applications and AI-powered products with modern Jav
 | **TypeScript**      | Cleaner, scalable code across large codebases         |
 | **Architecture**    | Modern software design and cloud-native development   |
 
+<br>
+
 ---
 
 ## Stack
 
-### Frontend
+<div align="center">
 
-<div>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+<br>
+
+#### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend" />
+
+<br>
+
+#### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask" alt="Backend" />
+
+<br>
+
+#### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
+
+<br>
+
+#### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and Machine Learning" />
+
+<br>
+
+#### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" alt="Developer Tools" />
+
+<br>
+
 </div>
 
-### Backend
-
-<div>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask" />
-</div>
-
-### Databases
-
-<div>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</div>
-
-### AI & Machine Learning
-
-<div>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</div>
-
-### Developer Tools
-
-<div>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
-</div>
 ---
 
 <!--
@@ -78,13 +100,28 @@ Uncomment and fill in once you've picked your best work (or pin 4–6 repos inst
 
 ## Activity
 
+<div align="center">
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=talesofcarter&theme=dark&hide_border=true">
   <img src="https://streak-stats.demolab.com?user=talesofcarter&theme=algolia&hide_border=true" alt="GitHub contribution streak for talesofcarter" width="100%">
 </picture>
 
+<br>
+
+</div>
+
 ---
 
-<p align="center"><em>Building software that is fast, thoughtful, and built to last.</em></p>
+<div align="center">
+
+<br>
+
+<em>Building software that is fast, thoughtful, and built to last.</em>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2&section=footer" width="100%" />
+</div>
