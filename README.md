@@ -14,12 +14,11 @@
 
 <br>
 
-Building fast, reliable web applications and AI-powered products<br>
-with modern JavaScript, TypeScript, Python, and LLM technologies.
+</div>
+
+Building fast, reliable web applications and AI-powered products with modern JavaScript, TypeScript, Python, and LLM technologies.
 
 <br>
-
-</div>
 
 ---
 
@@ -51,10 +50,6 @@ with modern JavaScript, TypeScript, Python, and LLM technologies.
 
 ## Stack
 
-<div align="center">
-
-<br>
-
 #### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend" />
@@ -84,8 +79,6 @@ with modern JavaScript, TypeScript, Python, and LLM technologies.
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" alt="Developer Tools" />
 
 <br>
-
-</div>
 
 ---
 
@@ -124,4 +117,5 @@ Uncomment and fill in once you've picked your best work (or pin 4–6 repos inst
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2&section=footer" width="100%" />
+
 </div>
