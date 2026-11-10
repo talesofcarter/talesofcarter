@@ -16,8 +16,9 @@
 
 </div>
 
+<p align="center">
 Building fast, reliable web applications and AI-powered products with modern JavaScript, TypeScript, Python, and LLM technologies.
-
+</p>
 <br>
 
 ---
@@ -54,31 +55,21 @@ Building fast, reliable web applications and AI-powered products with modern Jav
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend" />
 
-<br>
-
 #### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask" alt="Backend" />
-
-<br>
 
 #### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
 
-<br>
-
 #### AI & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and Machine Learning" />
 
-<br>
-
 #### Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" alt="Developer Tools" />
-
-<br>
 
 ---
 
